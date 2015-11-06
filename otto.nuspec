@@ -12,7 +12,7 @@
     <docsUrl>https://ottoproject.io/docs/index.html</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/otto-tool</mailingListUrl>
     <bugTrackerUrl>https://github.com/hashicorp/otto/issues</bugTrackerUrl>
-    <packageSourceUrl>https://github.com/StefanScherer/chocolatey-packages/tree/master/otto</packageSourceUrl>
+    <packageSourceUrl>https://github.com/StefanScherer/choco-otto</packageSourceUrl>
     <tags>otto vagrant virtual machine VM VirtualBox</tags>
     <licenseUrl>https://github.com/hashicrop/otto/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
