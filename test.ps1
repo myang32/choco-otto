@@ -21,7 +21,7 @@ $zip.Dispose()
 
 "TEST: Version of binary should match"
 . otto --version
-if (-Not $(otto --version).Contains("version: $version")) {
+if (-Not $(otto --version).Contains("Otto v$version")) {
   Write-Error "FAIL: Wrong version of otto installed!"
 }
 
